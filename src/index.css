@@ -5,9 +5,31 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.form1{
+  margin-left: 520px;
+  margin-top: 10%;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+label{
+  color: #fff;
+}
+input{
+  color: #fff;
+  background-color: black;
+  margin-left: 20px;
+  height: 30px;
+}
+.mainInput{
+  color: #fff;
 }
